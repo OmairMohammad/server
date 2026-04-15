@@ -1,0 +1,433 @@
+history_id,asset_id,service_date,service_type,technician,downtime_hours,notes,overdue_days_snapshot
+MH-BOI-101-01,BOI-101,2025-01-15,Cleaning,Abdul Mannan Mohammed,3.1,Deferred non-critical work item to next cycle.,0
+MH-BOI-101-02,BOI-101,2025-02-15,Condition Review,Abdul Mannan Mohammed,0.8,Component wear observed; monitor closely.,0
+MH-BOI-101-03,BOI-101,2025-03-15,Condition Review,Ajay Kunwar,4.6,Component wear observed; monitor closely.,0
+MH-BOI-101-04,BOI-101,2025-04-15,Condition Review,Contractor Team,3.9,Routine service completed.,0
+MH-BOI-101-05,BOI-101,2025-05-15,Condition Review,Abdul Mannan Mohammed,4.1,Minor tuning carried out.,0
+MH-BOI-101-06,BOI-101,2025-06-15,Cleaning,Contractor Team,3.6,Minor tuning carried out.,0
+MH-BOI-101-07,BOI-101,2025-07-15,Preventive Maintenance,Abdul Mannan Mohammed,1.6,Deferred non-critical work item to next cycle.,0
+MH-BOI-101-08,BOI-101,2025-08-15,Inspection,Abdul Mannan Mohammed,0.9,Component wear observed; monitor closely.,0
+MH-BOI-101-09,BOI-101,2025-09-15,Calibration,Ali Ahmad,3.9,Component wear observed; monitor closely.,0
+MH-BOI-101-10,BOI-101,2025-10-15,Cleaning,Ajay Kunwar,6.4,Minor tuning carried out.,0
+MH-BOI-101-11,BOI-101,2025-11-15,Calibration,Contractor Team,4.9,Routine service completed.,0
+MH-BOI-101-12,BOI-101,2025-12-15,Condition Review,Abdul Mannan Mohammed,4.7,Deferred non-critical work item to next cycle.,0
+MH-BUR-205-01,BUR-205,2025-01-15,Calibration,Contractor Team,4.3,Component wear observed; monitor closely.,0
+MH-BUR-205-02,BUR-205,2025-02-15,Calibration,Contractor Team,2.2,Routine service completed.,0
+MH-BUR-205-03,BUR-205,2025-03-15,Cleaning,Ajay Kunwar,4.8,Minor tuning carried out.,0
+MH-BUR-205-04,BUR-205,2025-04-15,Inspection,Contractor Team,3.8,Component wear observed; monitor closely.,0
+MH-BUR-205-05,BUR-205,2025-05-15,Preventive Maintenance,Abdul Mannan Mohammed,2.8,Minor tuning carried out.,0
+MH-BUR-205-06,BUR-205,2025-06-15,Condition Review,Ajay Kunwar,2.5,Deferred non-critical work item to next cycle.,0
+MH-BUR-205-07,BUR-205,2025-07-15,Cleaning,Ajay Kunwar,8.4,Component wear observed; monitor closely.,1
+MH-BUR-205-08,BUR-205,2025-08-15,Calibration,Ali Ahmad,4.5,Routine service completed.,3
+MH-BUR-205-09,BUR-205,2025-09-15,Preventive Maintenance,Ajay Kunwar,3.1,Deferred non-critical work item to next cycle.,5
+MH-BUR-205-10,BUR-205,2025-10-15,Inspection,Ali Ahmad,3.1,Deferred non-critical work item to next cycle.,7
+MH-BUR-205-11,BUR-205,2025-11-15,Calibration,Ajay Kunwar,5.5,Minor tuning carried out.,9
+MH-BUR-205-12,BUR-205,2025-12-15,Cleaning,Contractor Team,4.8,Routine service completed.,11
+MH-PMP-144-01,PMP-144,2025-01-15,Cleaning,Ajay Kunwar,6.0,Component wear observed; monitor closely.,7
+MH-PMP-144-02,PMP-144,2025-02-15,Preventive Maintenance,Contractor Team,5.1,Deferred non-critical work item to next cycle.,9
+MH-PMP-144-03,PMP-144,2025-03-15,Preventive Maintenance,Ali Ahmad,2.5,Routine service completed.,11
+MH-PMP-144-04,PMP-144,2025-04-15,Condition Review,Ajay Kunwar,2.4,Deferred non-critical work item to next cycle.,13
+MH-PMP-144-05,PMP-144,2025-05-15,Inspection,Ali Ahmad,5.9,Routine service completed.,15
+MH-PMP-144-06,PMP-144,2025-06-15,Inspection,Abdul Mannan Mohammed,4.0,Minor tuning carried out.,17
+MH-PMP-144-07,PMP-144,2025-07-15,Inspection,Contractor Team,4.2,Minor tuning carried out.,19
+MH-PMP-144-08,PMP-144,2025-08-15,Calibration,Abdul Mannan Mohammed,2.3,Minor tuning carried out.,21
+MH-PMP-144-09,PMP-144,2025-09-15,Cleaning,Ali Ahmad,6.2,Component wear observed; monitor closely.,23
+MH-PMP-144-10,PMP-144,2025-10-15,Condition Review,Ali Ahmad,1.1,Minor tuning carried out.,25
+MH-PMP-144-11,PMP-144,2025-11-15,Calibration,Ajay Kunwar,5.6,Minor tuning carried out.,27
+MH-PMP-144-12,PMP-144,2025-12-15,Inspection,Ali Ahmad,3.8,Routine service completed.,29
+MH-HTX-320-01,HTX-320,2025-01-15,Calibration,Ajay Kunwar,2.9,Routine service completed.,0
+MH-HTX-320-02,HTX-320,2025-02-15,Inspection,Abdul Mannan Mohammed,3.6,Component wear observed; monitor closely.,0
+MH-HTX-320-03,HTX-320,2025-03-15,Cleaning,Abdul Mannan Mohammed,5.2,Deferred non-critical work item to next cycle.,0
+MH-HTX-320-04,HTX-320,2025-04-15,Condition Review,Abdul Mannan Mohammed,1.1,Deferred non-critical work item to next cycle.,0
+MH-HTX-320-05,HTX-320,2025-05-15,Condition Review,Ali Ahmad,3.5,Minor tuning carried out.,0
+MH-HTX-320-06,HTX-320,2025-06-15,Inspection,Abdul Mannan Mohammed,2.2,Deferred non-critical work item to next cycle.,0
+MH-HTX-320-07,HTX-320,2025-07-15,Condition Review,Abdul Mannan Mohammed,3.4,Deferred non-critical work item to next cycle.,0
+MH-HTX-320-08,HTX-320,2025-08-15,Calibration,Ajay Kunwar,2.8,Component wear observed; monitor closely.,0
+MH-HTX-320-09,HTX-320,2025-09-15,Inspection,Abdul Mannan Mohammed,2.2,Deferred non-critical work item to next cycle.,0
+MH-HTX-320-10,HTX-320,2025-10-15,Preventive Maintenance,Ajay Kunwar,2.8,Deferred non-critical work item to next cycle.,1
+MH-HTX-320-11,HTX-320,2025-11-15,Calibration,Ali Ahmad,4.6,Component wear observed; monitor closely.,3
+MH-HTX-320-12,HTX-320,2025-12-15,Preventive Maintenance,Contractor Team,3.5,Component wear observed; monitor closely.,5
+MH-BLR-404-01,BLR-404,2025-01-15,Preventive Maintenance,Ajay Kunwar,4.1,Minor tuning carried out.,21
+MH-BLR-404-02,BLR-404,2025-02-15,Cleaning,Contractor Team,3.0,Routine service completed.,23
+MH-BLR-404-03,BLR-404,2025-03-15,Condition Review,Abdul Mannan Mohammed,7.0,Component wear observed; monitor closely.,25
+MH-BLR-404-04,BLR-404,2025-04-15,Preventive Maintenance,Abdul Mannan Mohammed,2.2,Deferred non-critical work item to next cycle.,27
+MH-BLR-404-05,BLR-404,2025-05-15,Calibration,Abdul Mannan Mohammed,3.6,Routine service completed.,29
+MH-BLR-404-06,BLR-404,2025-06-15,Preventive Maintenance,Ajay Kunwar,2.8,Minor tuning carried out.,31
+MH-BLR-404-07,BLR-404,2025-07-15,Condition Review,Ajay Kunwar,2.0,Deferred non-critical work item to next cycle.,33
+MH-BLR-404-08,BLR-404,2025-08-15,Cleaning,Abdul Mannan Mohammed,7.3,Deferred non-critical work item to next cycle.,35
+MH-BLR-404-09,BLR-404,2025-09-15,Calibration,Contractor Team,2.9,Routine service completed.,37
+MH-BLR-404-10,BLR-404,2025-10-15,Condition Review,Contractor Team,0.5,Minor tuning carried out.,39
+MH-BLR-404-11,BLR-404,2025-11-15,Inspection,Contractor Team,3.3,Component wear observed; monitor closely.,41
+MH-BLR-404-12,BLR-404,2025-12-15,Inspection,Ajay Kunwar,4.0,Routine service completed.,43
+MH-BLR-202-01,BLR-202,2025-01-15,Preventive Maintenance,Abdul Mannan Mohammed,3.1,Deferred non-critical work item to next cycle.,0
+MH-BLR-202-02,BLR-202,2025-02-15,Inspection,Ajay Kunwar,0.5,Minor tuning carried out.,0
+MH-BLR-202-03,BLR-202,2025-03-15,Inspection,Abdul Mannan Mohammed,1.2,Component wear observed; monitor closely.,0
+MH-BLR-202-04,BLR-202,2025-04-15,Condition Review,Ajay Kunwar,3.0,Deferred non-critical work item to next cycle.,0
+MH-BLR-202-05,BLR-202,2025-05-15,Calibration,Ali Ahmad,2.9,Deferred non-critical work item to next cycle.,0
+MH-BLR-202-06,BLR-202,2025-06-15,Calibration,Abdul Mannan Mohammed,5.1,Minor tuning carried out.,0
+MH-BLR-202-07,BLR-202,2025-07-15,Cleaning,Contractor Team,3.3,Deferred non-critical work item to next cycle.,0
+MH-BLR-202-08,BLR-202,2025-08-15,Condition Review,Abdul Mannan Mohammed,5.3,Routine service completed.,0
+MH-BLR-202-09,BLR-202,2025-09-15,Calibration,Ali Ahmad,2.0,Deferred non-critical work item to next cycle.,0
+MH-BLR-202-10,BLR-202,2025-10-15,Preventive Maintenance,Contractor Team,3.7,Component wear observed; monitor closely.,0
+MH-BLR-202-11,BLR-202,2025-11-15,Inspection,Ajay Kunwar,1.7,Routine service completed.,0
+MH-BLR-202-12,BLR-202,2025-12-15,Inspection,Ajay Kunwar,4.2,Deferred non-critical work item to next cycle.,0
+MH-PMP-099-01,PMP-099,2025-01-15,Condition Review,Contractor Team,2.9,Component wear observed; monitor closely.,0
+MH-PMP-099-02,PMP-099,2025-02-15,Calibration,Ajay Kunwar,4.5,Minor tuning carried out.,0
+MH-PMP-099-03,PMP-099,2025-03-15,Inspection,Contractor Team,3.0,Minor tuning carried out.,0
+MH-PMP-099-04,PMP-099,2025-04-15,Cleaning,Ajay Kunwar,4.8,Deferred non-critical work item to next cycle.,0
+MH-PMP-099-05,PMP-099,2025-05-15,Preventive Maintenance,Ali Ahmad,1.5,Routine service completed.,0
+MH-PMP-099-06,PMP-099,2025-06-15,Condition Review,Abdul Mannan Mohammed,1.2,Component wear observed; monitor closely.,0
+MH-PMP-099-07,PMP-099,2025-07-15,Inspection,Contractor Team,2.8,Component wear observed; monitor closely.,0
+MH-PMP-099-08,PMP-099,2025-08-15,Inspection,Contractor Team,3.6,Routine service completed.,0
+MH-PMP-099-09,PMP-099,2025-09-15,Inspection,Ajay Kunwar,2.8,Routine service completed.,0
+MH-PMP-099-10,PMP-099,2025-10-15,Inspection,Contractor Team,2.0,Routine service completed.,0
+MH-PMP-099-11,PMP-099,2025-11-15,Inspection,Contractor Team,3.0,Minor tuning carried out.,1
+MH-PMP-099-12,PMP-099,2025-12-15,Cleaning,Ajay Kunwar,6.6,Deferred non-critical work item to next cycle.,3
+MH-CTL-010-01,CTL-010,2025-01-15,Condition Review,Contractor Team,2.5,Deferred non-critical work item to next cycle.,0
+MH-CTL-010-02,CTL-010,2025-02-15,Condition Review,Contractor Team,4.7,Routine service completed.,0
+MH-CTL-010-03,CTL-010,2025-03-15,Condition Review,Contractor Team,3.2,Minor tuning carried out.,0
+MH-CTL-010-04,CTL-010,2025-04-15,Condition Review,Abdul Mannan Mohammed,3.3,Minor tuning carried out.,0
+MH-CTL-010-05,CTL-010,2025-05-15,Cleaning,Contractor Team,5.6,Component wear observed; monitor closely.,0
+MH-CTL-010-06,CTL-010,2025-06-15,Preventive Maintenance,Ajay Kunwar,4.1,Minor tuning carried out.,0
+MH-CTL-010-07,CTL-010,2025-07-15,Inspection,Ajay Kunwar,6.3,Component wear observed; monitor closely.,0
+MH-CTL-010-08,CTL-010,2025-08-15,Cleaning,Contractor Team,4.6,Component wear observed; monitor closely.,0
+MH-CTL-010-09,CTL-010,2025-09-15,Calibration,Ali Ahmad,2.9,Minor tuning carried out.,0
+MH-CTL-010-10,CTL-010,2025-10-15,Preventive Maintenance,Abdul Mannan Mohammed,0.9,Routine service completed.,0
+MH-CTL-010-11,CTL-010,2025-11-15,Cleaning,Contractor Team,1.8,Deferred non-critical work item to next cycle.,0
+MH-CTL-010-12,CTL-010,2025-12-15,Condition Review,Contractor Team,3.6,Deferred non-critical work item to next cycle.,0
+MH-CHR-501-01,CHR-501,2025-01-15,Condition Review,Ajay Kunwar,5.0,Deferred non-critical work item to next cycle.,0
+MH-CHR-501-02,CHR-501,2025-02-15,Inspection,Contractor Team,3.7,Routine service completed.,1
+MH-CHR-501-03,CHR-501,2025-03-15,Cleaning,Ali Ahmad,4.4,Routine service completed.,3
+MH-CHR-501-04,CHR-501,2025-04-15,Condition Review,Ali Ahmad,2.9,Component wear observed; monitor closely.,5
+MH-CHR-501-05,CHR-501,2025-05-15,Inspection,Abdul Mannan Mohammed,4.5,Deferred non-critical work item to next cycle.,7
+MH-CHR-501-06,CHR-501,2025-06-15,Inspection,Abdul Mannan Mohammed,3.3,Minor tuning carried out.,9
+MH-CHR-501-07,CHR-501,2025-07-15,Preventive Maintenance,Ali Ahmad,3.2,Routine service completed.,11
+MH-CHR-501-08,CHR-501,2025-08-15,Inspection,Ali Ahmad,2.8,Minor tuning carried out.,13
+MH-CHR-501-09,CHR-501,2025-09-15,Inspection,Abdul Mannan Mohammed,4.2,Minor tuning carried out.,15
+MH-CHR-501-10,CHR-501,2025-10-15,Preventive Maintenance,Ali Ahmad,4.8,Routine service completed.,17
+MH-CHR-501-11,CHR-501,2025-11-15,Calibration,Contractor Team,3.6,Component wear observed; monitor closely.,19
+MH-CHR-501-12,CHR-501,2025-12-15,Condition Review,Abdul Mannan Mohammed,4.7,Minor tuning carried out.,21
+MH-BUR-310-01,BUR-310,2025-01-15,Preventive Maintenance,Ajay Kunwar,4.2,Minor tuning carried out.,0
+MH-BUR-310-02,BUR-310,2025-02-15,Cleaning,Ali Ahmad,2.5,Routine service completed.,0
+MH-BUR-310-03,BUR-310,2025-03-15,Inspection,Ali Ahmad,3.0,Component wear observed; monitor closely.,0
+MH-BUR-310-04,BUR-310,2025-04-15,Calibration,Ajay Kunwar,4.1,Minor tuning carried out.,0
+MH-BUR-310-05,BUR-310,2025-05-15,Preventive Maintenance,Abdul Mannan Mohammed,3.2,Component wear observed; monitor closely.,0
+MH-BUR-310-06,BUR-310,2025-06-15,Inspection,Ajay Kunwar,5.4,Deferred non-critical work item to next cycle.,0
+MH-BUR-310-07,BUR-310,2025-07-15,Preventive Maintenance,Ajay Kunwar,3.8,Component wear observed; monitor closely.,0
+MH-BUR-310-08,BUR-310,2025-08-15,Calibration,Contractor Team,3.6,Routine service completed.,0
+MH-BUR-310-09,BUR-310,2025-09-15,Cleaning,Ali Ahmad,6.6,Minor tuning carried out.,0
+MH-BUR-310-10,BUR-310,2025-10-15,Inspection,Contractor Team,5.4,Deferred non-critical work item to next cycle.,0
+MH-BUR-310-11,BUR-310,2025-11-15,Condition Review,Abdul Mannan Mohammed,0.9,Routine service completed.,0
+MH-BUR-310-12,BUR-310,2025-12-15,Inspection,Ali Ahmad,3.8,Routine service completed.,0
+MH-HTX-510-01,HTX-510,2025-01-15,Cleaning,Contractor Team,4.5,Component wear observed; monitor closely.,0
+MH-HTX-510-02,HTX-510,2025-02-15,Inspection,Abdul Mannan Mohammed,3.2,Component wear observed; monitor closely.,0
+MH-HTX-510-03,HTX-510,2025-03-15,Inspection,Abdul Mannan Mohammed,3.1,Component wear observed; monitor closely.,0
+MH-HTX-510-04,HTX-510,2025-04-15,Preventive Maintenance,Contractor Team,4.3,Minor tuning carried out.,0
+MH-HTX-510-05,HTX-510,2025-05-15,Cleaning,Ali Ahmad,3.8,Routine service completed.,0
+MH-HTX-510-06,HTX-510,2025-06-15,Preventive Maintenance,Abdul Mannan Mohammed,2.1,Deferred non-critical work item to next cycle.,2
+MH-HTX-510-07,HTX-510,2025-07-15,Preventive Maintenance,Ali Ahmad,3.3,Routine service completed.,4
+MH-HTX-510-08,HTX-510,2025-08-15,Condition Review,Abdul Mannan Mohammed,3.0,Minor tuning carried out.,6
+MH-HTX-510-09,HTX-510,2025-09-15,Preventive Maintenance,Ali Ahmad,1.6,Deferred non-critical work item to next cycle.,8
+MH-HTX-510-10,HTX-510,2025-10-15,Preventive Maintenance,Abdul Mannan Mohammed,4.6,Component wear observed; monitor closely.,10
+MH-HTX-510-11,HTX-510,2025-11-15,Preventive Maintenance,Contractor Team,1.7,Routine service completed.,12
+MH-HTX-510-12,HTX-510,2025-12-15,Inspection,Contractor Team,2.7,Deferred non-critical work item to next cycle.,14
+MH-PMP-511-01,PMP-511,2025-01-15,Condition Review,Contractor Team,1.1,Minor tuning carried out.,0
+MH-PMP-511-02,PMP-511,2025-02-15,Preventive Maintenance,Contractor Team,1.5,Routine service completed.,0
+MH-PMP-511-03,PMP-511,2025-03-15,Condition Review,Contractor Team,0.6,Routine service completed.,0
+MH-PMP-511-04,PMP-511,2025-04-15,Cleaning,Contractor Team,5.0,Component wear observed; monitor closely.,0
+MH-PMP-511-05,PMP-511,2025-05-15,Inspection,Ali Ahmad,5.9,Minor tuning carried out.,0
+MH-PMP-511-06,PMP-511,2025-06-15,Cleaning,Ajay Kunwar,5.0,Routine service completed.,0
+MH-PMP-511-07,PMP-511,2025-07-15,Inspection,Contractor Team,4.4,Routine service completed.,0
+MH-PMP-511-08,PMP-511,2025-08-15,Inspection,Contractor Team,3.0,Minor tuning carried out.,0
+MH-PMP-511-09,PMP-511,2025-09-15,Inspection,Abdul Mannan Mohammed,3.0,Routine service completed.,0
+MH-PMP-511-10,PMP-511,2025-10-15,Inspection,Abdul Mannan Mohammed,3.2,Routine service completed.,2
+MH-PMP-511-11,PMP-511,2025-11-15,Inspection,Ajay Kunwar,3.2,Component wear observed; monitor closely.,4
+MH-PMP-511-12,PMP-511,2025-12-15,Calibration,Ajay Kunwar,3.3,Component wear observed; monitor closely.,6
+MH-PMP-512-01,PMP-512,2025-01-15,Calibration,Ali Ahmad,2.8,Deferred non-critical work item to next cycle.,32
+MH-PMP-512-02,PMP-512,2025-02-15,Inspection,Abdul Mannan Mohammed,1.1,Deferred non-critical work item to next cycle.,34
+MH-PMP-512-03,PMP-512,2025-03-15,Calibration,Contractor Team,3.1,Component wear observed; monitor closely.,36
+MH-PMP-512-04,PMP-512,2025-04-15,Inspection,Abdul Mannan Mohammed,0.6,Routine service completed.,38
+MH-PMP-512-05,PMP-512,2025-05-15,Cleaning,Abdul Mannan Mohammed,6.9,Minor tuning carried out.,40
+MH-PMP-512-06,PMP-512,2025-06-15,Calibration,Ajay Kunwar,3.2,Minor tuning carried out.,42
+MH-PMP-512-07,PMP-512,2025-07-15,Condition Review,Contractor Team,1.0,Minor tuning carried out.,44
+MH-PMP-512-08,PMP-512,2025-08-15,Cleaning,Ajay Kunwar,3.5,Minor tuning carried out.,46
+MH-PMP-512-09,PMP-512,2025-09-15,Preventive Maintenance,Contractor Team,4.7,Minor tuning carried out.,48
+MH-PMP-512-10,PMP-512,2025-10-15,Condition Review,Ali Ahmad,4.2,Minor tuning carried out.,50
+MH-PMP-512-11,PMP-512,2025-11-15,Preventive Maintenance,Abdul Mannan Mohammed,2.8,Minor tuning carried out.,52
+MH-PMP-512-12,PMP-512,2025-12-15,Cleaning,Contractor Team,5.2,Deferred non-critical work item to next cycle.,54
+MH-BLR-513-01,BLR-513,2025-01-15,Condition Review,Abdul Mannan Mohammed,4.4,Deferred non-critical work item to next cycle.,25
+MH-BLR-513-02,BLR-513,2025-02-15,Inspection,Ali Ahmad,4.2,Component wear observed; monitor closely.,27
+MH-BLR-513-03,BLR-513,2025-03-15,Preventive Maintenance,Abdul Mannan Mohammed,2.6,Routine service completed.,29
+MH-BLR-513-04,BLR-513,2025-04-15,Inspection,Ajay Kunwar,2.8,Minor tuning carried out.,31
+MH-BLR-513-05,BLR-513,2025-05-15,Cleaning,Abdul Mannan Mohammed,5.0,Component wear observed; monitor closely.,33
+MH-BLR-513-06,BLR-513,2025-06-15,Calibration,Abdul Mannan Mohammed,5.0,Minor tuning carried out.,35
+MH-BLR-513-07,BLR-513,2025-07-15,Preventive Maintenance,Ali Ahmad,2.8,Component wear observed; monitor closely.,37
+MH-BLR-513-08,BLR-513,2025-08-15,Calibration,Ali Ahmad,4.0,Component wear observed; monitor closely.,39
+MH-BLR-513-09,BLR-513,2025-09-15,Cleaning,Abdul Mannan Mohammed,2.9,Component wear observed; monitor closely.,41
+MH-BLR-513-10,BLR-513,2025-10-15,Condition Review,Abdul Mannan Mohammed,1.1,Routine service completed.,43
+MH-BLR-513-11,BLR-513,2025-11-15,Condition Review,Ali Ahmad,4.1,Routine service completed.,45
+MH-BLR-513-12,BLR-513,2025-12-15,Inspection,Abdul Mannan Mohammed,2.2,Component wear observed; monitor closely.,47
+MH-HTX-514-01,HTX-514,2025-01-15,Inspection,Ajay Kunwar,2.8,Deferred non-critical work item to next cycle.,0
+MH-HTX-514-02,HTX-514,2025-02-15,Inspection,Contractor Team,3.9,Deferred non-critical work item to next cycle.,0
+MH-HTX-514-03,HTX-514,2025-03-15,Calibration,Contractor Team,3.8,Routine service completed.,0
+MH-HTX-514-04,HTX-514,2025-04-15,Cleaning,Contractor Team,4.0,Minor tuning carried out.,0
+MH-HTX-514-05,HTX-514,2025-05-15,Preventive Maintenance,Ajay Kunwar,2.5,Minor tuning carried out.,0
+MH-HTX-514-06,HTX-514,2025-06-15,Inspection,Ajay Kunwar,4.5,Component wear observed; monitor closely.,0
+MH-HTX-514-07,HTX-514,2025-07-15,Inspection,Abdul Mannan Mohammed,5.6,Component wear observed; monitor closely.,0
+MH-HTX-514-08,HTX-514,2025-08-15,Condition Review,Ali Ahmad,6.3,Minor tuning carried out.,2
+MH-HTX-514-09,HTX-514,2025-09-15,Condition Review,Ali Ahmad,2.8,Minor tuning carried out.,4
+MH-HTX-514-10,HTX-514,2025-10-15,Preventive Maintenance,Contractor Team,2.8,Routine service completed.,6
+MH-HTX-514-11,HTX-514,2025-11-15,Inspection,Ajay Kunwar,4.6,Deferred non-critical work item to next cycle.,8
+MH-HTX-514-12,HTX-514,2025-12-15,Preventive Maintenance,Ajay Kunwar,3.2,Minor tuning carried out.,10
+MH-BLR-515-01,BLR-515,2025-01-15,Preventive Maintenance,Ajay Kunwar,4.9,Minor tuning carried out.,32
+MH-BLR-515-02,BLR-515,2025-02-15,Cleaning,Contractor Team,5.0,Routine service completed.,34
+MH-BLR-515-03,BLR-515,2025-03-15,Calibration,Ajay Kunwar,2.9,Component wear observed; monitor closely.,36
+MH-BLR-515-04,BLR-515,2025-04-15,Preventive Maintenance,Ajay Kunwar,3.8,Minor tuning carried out.,38
+MH-BLR-515-05,BLR-515,2025-05-15,Calibration,Ali Ahmad,0.5,Component wear observed; monitor closely.,40
+MH-BLR-515-06,BLR-515,2025-06-15,Inspection,Ajay Kunwar,4.8,Component wear observed; monitor closely.,42
+MH-BLR-515-07,BLR-515,2025-07-15,Inspection,Ali Ahmad,3.0,Routine service completed.,44
+MH-BLR-515-08,BLR-515,2025-08-15,Cleaning,Ajay Kunwar,3.5,Deferred non-critical work item to next cycle.,46
+MH-BLR-515-09,BLR-515,2025-09-15,Preventive Maintenance,Ali Ahmad,5.4,Routine service completed.,48
+MH-BLR-515-10,BLR-515,2025-10-15,Cleaning,Abdul Mannan Mohammed,4.5,Routine service completed.,50
+MH-BLR-515-11,BLR-515,2025-11-15,Inspection,Contractor Team,3.0,Minor tuning carried out.,52
+MH-BLR-515-12,BLR-515,2025-12-15,Preventive Maintenance,Abdul Mannan Mohammed,2.7,Minor tuning carried out.,54
+MH-BLR-516-01,BLR-516,2025-01-15,Cleaning,Ajay Kunwar,5.3,Minor tuning carried out.,0
+MH-BLR-516-02,BLR-516,2025-02-15,Calibration,Contractor Team,4.4,Minor tuning carried out.,0
+MH-BLR-516-03,BLR-516,2025-03-15,Inspection,Abdul Mannan Mohammed,1.4,Routine service completed.,0
+MH-BLR-516-04,BLR-516,2025-04-15,Condition Review,Contractor Team,4.8,Component wear observed; monitor closely.,0
+MH-BLR-516-05,BLR-516,2025-05-15,Preventive Maintenance,Ali Ahmad,4.2,Deferred non-critical work item to next cycle.,0
+MH-BLR-516-06,BLR-516,2025-06-15,Calibration,Contractor Team,2.0,Minor tuning carried out.,0
+MH-BLR-516-07,BLR-516,2025-07-15,Condition Review,Abdul Mannan Mohammed,3.6,Deferred non-critical work item to next cycle.,2
+MH-BLR-516-08,BLR-516,2025-08-15,Preventive Maintenance,Contractor Team,3.5,Component wear observed; monitor closely.,4
+MH-BLR-516-09,BLR-516,2025-09-15,Calibration,Abdul Mannan Mohammed,2.7,Minor tuning carried out.,6
+MH-BLR-516-10,BLR-516,2025-10-15,Calibration,Abdul Mannan Mohammed,2.2,Routine service completed.,8
+MH-BLR-516-11,BLR-516,2025-11-15,Condition Review,Contractor Team,1.7,Routine service completed.,10
+MH-BLR-516-12,BLR-516,2025-12-15,Inspection,Contractor Team,4.4,Routine service completed.,12
+MH-PMP-517-01,PMP-517,2025-01-15,Calibration,Ali Ahmad,3.7,Minor tuning carried out.,24
+MH-PMP-517-02,PMP-517,2025-02-15,Preventive Maintenance,Contractor Team,2.0,Component wear observed; monitor closely.,26
+MH-PMP-517-03,PMP-517,2025-03-15,Condition Review,Abdul Mannan Mohammed,4.0,Deferred non-critical work item to next cycle.,28
+MH-PMP-517-04,PMP-517,2025-04-15,Cleaning,Abdul Mannan Mohammed,5.9,Routine service completed.,30
+MH-PMP-517-05,PMP-517,2025-05-15,Cleaning,Ajay Kunwar,6.2,Deferred non-critical work item to next cycle.,32
+MH-PMP-517-06,PMP-517,2025-06-15,Cleaning,Ajay Kunwar,4.8,Component wear observed; monitor closely.,34
+MH-PMP-517-07,PMP-517,2025-07-15,Cleaning,Ali Ahmad,5.2,Deferred non-critical work item to next cycle.,36
+MH-PMP-517-08,PMP-517,2025-08-15,Inspection,Ajay Kunwar,2.4,Minor tuning carried out.,38
+MH-PMP-517-09,PMP-517,2025-09-15,Calibration,Ali Ahmad,4.0,Minor tuning carried out.,40
+MH-PMP-517-10,PMP-517,2025-10-15,Calibration,Ali Ahmad,2.6,Routine service completed.,42
+MH-PMP-517-11,PMP-517,2025-11-15,Condition Review,Ali Ahmad,3.7,Routine service completed.,44
+MH-PMP-517-12,PMP-517,2025-12-15,Inspection,Ali Ahmad,4.5,Component wear observed; monitor closely.,46
+MH-BLR-518-01,BLR-518,2025-01-15,Calibration,Ajay Kunwar,1.0,Deferred non-critical work item to next cycle.,0
+MH-BLR-518-02,BLR-518,2025-02-15,Inspection,Abdul Mannan Mohammed,1.8,Component wear observed; monitor closely.,0
+MH-BLR-518-03,BLR-518,2025-03-15,Preventive Maintenance,Abdul Mannan Mohammed,2.6,Component wear observed; monitor closely.,0
+MH-BLR-518-04,BLR-518,2025-04-15,Condition Review,Abdul Mannan Mohammed,2.8,Component wear observed; monitor closely.,2
+MH-BLR-518-05,BLR-518,2025-05-15,Condition Review,Contractor Team,2.0,Minor tuning carried out.,4
+MH-BLR-518-06,BLR-518,2025-06-15,Inspection,Ajay Kunwar,1.4,Routine service completed.,6
+MH-BLR-518-07,BLR-518,2025-07-15,Inspection,Contractor Team,2.6,Component wear observed; monitor closely.,8
+MH-BLR-518-08,BLR-518,2025-08-15,Cleaning,Contractor Team,4.7,Minor tuning carried out.,10
+MH-BLR-518-09,BLR-518,2025-09-15,Calibration,Ajay Kunwar,3.3,Component wear observed; monitor closely.,12
+MH-BLR-518-10,BLR-518,2025-10-15,Condition Review,Contractor Team,4.1,Minor tuning carried out.,14
+MH-BLR-518-11,BLR-518,2025-11-15,Inspection,Contractor Team,2.7,Minor tuning carried out.,16
+MH-BLR-518-12,BLR-518,2025-12-15,Condition Review,Ali Ahmad,2.4,Component wear observed; monitor closely.,18
+MH-BLR-519-01,BLR-519,2025-01-15,Calibration,Ajay Kunwar,2.0,Component wear observed; monitor closely.,0
+MH-BLR-519-02,BLR-519,2025-02-15,Cleaning,Contractor Team,5.5,Routine service completed.,0
+MH-BLR-519-03,BLR-519,2025-03-15,Inspection,Contractor Team,1.8,Routine service completed.,0
+MH-BLR-519-04,BLR-519,2025-04-15,Inspection,Abdul Mannan Mohammed,2.1,Routine service completed.,0
+MH-BLR-519-05,BLR-519,2025-05-15,Condition Review,Abdul Mannan Mohammed,5.0,Deferred non-critical work item to next cycle.,0
+MH-BLR-519-06,BLR-519,2025-06-15,Calibration,Ajay Kunwar,4.3,Deferred non-critical work item to next cycle.,0
+MH-BLR-519-07,BLR-519,2025-07-15,Condition Review,Ajay Kunwar,2.1,Component wear observed; monitor closely.,0
+MH-BLR-519-08,BLR-519,2025-08-15,Preventive Maintenance,Contractor Team,3.1,Deferred non-critical work item to next cycle.,0
+MH-BLR-519-09,BLR-519,2025-09-15,Preventive Maintenance,Contractor Team,3.7,Component wear observed; monitor closely.,0
+MH-BLR-519-10,BLR-519,2025-10-15,Inspection,Abdul Mannan Mohammed,3.6,Component wear observed; monitor closely.,0
+MH-BLR-519-11,BLR-519,2025-11-15,Calibration,Ali Ahmad,1.5,Routine service completed.,2
+MH-BLR-519-12,BLR-519,2025-12-15,Condition Review,Contractor Team,3.6,Routine service completed.,4
+MH-CHR-520-01,CHR-520,2025-01-15,Preventive Maintenance,Abdul Mannan Mohammed,2.7,Minor tuning carried out.,7
+MH-CHR-520-02,CHR-520,2025-02-15,Inspection,Contractor Team,5.1,Component wear observed; monitor closely.,9
+MH-CHR-520-03,CHR-520,2025-03-15,Preventive Maintenance,Contractor Team,2.1,Minor tuning carried out.,11
+MH-CHR-520-04,CHR-520,2025-04-15,Calibration,Abdul Mannan Mohammed,4.8,Component wear observed; monitor closely.,13
+MH-CHR-520-05,CHR-520,2025-05-15,Preventive Maintenance,Abdul Mannan Mohammed,3.0,Minor tuning carried out.,15
+MH-CHR-520-06,CHR-520,2025-06-15,Inspection,Ajay Kunwar,2.2,Component wear observed; monitor closely.,17
+MH-CHR-520-07,CHR-520,2025-07-15,Condition Review,Ali Ahmad,2.2,Routine service completed.,19
+MH-CHR-520-08,CHR-520,2025-08-15,Preventive Maintenance,Ali Ahmad,2.2,Minor tuning carried out.,21
+MH-CHR-520-09,CHR-520,2025-09-15,Condition Review,Contractor Team,1.4,Deferred non-critical work item to next cycle.,23
+MH-CHR-520-10,CHR-520,2025-10-15,Condition Review,Ajay Kunwar,2.2,Routine service completed.,25
+MH-CHR-520-11,CHR-520,2025-11-15,Preventive Maintenance,Ali Ahmad,2.6,Component wear observed; monitor closely.,27
+MH-CHR-520-12,CHR-520,2025-12-15,Inspection,Ali Ahmad,4.8,Minor tuning carried out.,29
+MH-HTX-521-01,HTX-521,2025-01-15,Cleaning,Ajay Kunwar,4.3,Minor tuning carried out.,0
+MH-HTX-521-02,HTX-521,2025-02-15,Cleaning,Abdul Mannan Mohammed,3.1,Routine service completed.,2
+MH-HTX-521-03,HTX-521,2025-03-15,Condition Review,Ajay Kunwar,4.5,Minor tuning carried out.,4
+MH-HTX-521-04,HTX-521,2025-04-15,Calibration,Contractor Team,2.8,Component wear observed; monitor closely.,6
+MH-HTX-521-05,HTX-521,2025-05-15,Inspection,Ajay Kunwar,2.9,Deferred non-critical work item to next cycle.,8
+MH-HTX-521-06,HTX-521,2025-06-15,Calibration,Contractor Team,2.5,Component wear observed; monitor closely.,10
+MH-HTX-521-07,HTX-521,2025-07-15,Cleaning,Contractor Team,4.7,Component wear observed; monitor closely.,12
+MH-HTX-521-08,HTX-521,2025-08-15,Condition Review,Abdul Mannan Mohammed,1.3,Component wear observed; monitor closely.,14
+MH-HTX-521-09,HTX-521,2025-09-15,Cleaning,Ali Ahmad,5.6,Minor tuning carried out.,16
+MH-HTX-521-10,HTX-521,2025-10-15,Preventive Maintenance,Ali Ahmad,1.5,Minor tuning carried out.,18
+MH-HTX-521-11,HTX-521,2025-11-15,Inspection,Ali Ahmad,2.1,Component wear observed; monitor closely.,20
+MH-HTX-521-12,HTX-521,2025-12-15,Inspection,Contractor Team,5.9,Deferred non-critical work item to next cycle.,22
+MH-CTL-522-01,CTL-522,2025-01-15,Calibration,Abdul Mannan Mohammed,3.2,Minor tuning carried out.,0
+MH-CTL-522-02,CTL-522,2025-02-15,Inspection,Contractor Team,2.4,Deferred non-critical work item to next cycle.,1
+MH-CTL-522-03,CTL-522,2025-03-15,Condition Review,Ali Ahmad,4.0,Minor tuning carried out.,3
+MH-CTL-522-04,CTL-522,2025-04-15,Preventive Maintenance,Contractor Team,2.9,Routine service completed.,5
+MH-CTL-522-05,CTL-522,2025-05-15,Preventive Maintenance,Ali Ahmad,3.5,Deferred non-critical work item to next cycle.,7
+MH-CTL-522-06,CTL-522,2025-06-15,Cleaning,Ali Ahmad,3.6,Routine service completed.,9
+MH-CTL-522-07,CTL-522,2025-07-15,Condition Review,Contractor Team,4.9,Routine service completed.,11
+MH-CTL-522-08,CTL-522,2025-08-15,Calibration,Ali Ahmad,1.7,Deferred non-critical work item to next cycle.,13
+MH-CTL-522-09,CTL-522,2025-09-15,Cleaning,Contractor Team,5.1,Component wear observed; monitor closely.,15
+MH-CTL-522-10,CTL-522,2025-10-15,Cleaning,Ali Ahmad,3.7,Deferred non-critical work item to next cycle.,17
+MH-CTL-522-11,CTL-522,2025-11-15,Inspection,Ajay Kunwar,3.2,Routine service completed.,19
+MH-CTL-522-12,CTL-522,2025-12-15,Condition Review,Ajay Kunwar,4.4,Component wear observed; monitor closely.,21
+MH-BUR-523-01,BUR-523,2025-01-15,Inspection,Ali Ahmad,4.0,Minor tuning carried out.,0
+MH-BUR-523-02,BUR-523,2025-02-15,Condition Review,Ajay Kunwar,2.3,Minor tuning carried out.,0
+MH-BUR-523-03,BUR-523,2025-03-15,Calibration,Contractor Team,5.5,Deferred non-critical work item to next cycle.,0
+MH-BUR-523-04,BUR-523,2025-04-15,Calibration,Ali Ahmad,2.1,Routine service completed.,0
+MH-BUR-523-05,BUR-523,2025-05-15,Preventive Maintenance,Abdul Mannan Mohammed,5.1,Component wear observed; monitor closely.,0
+MH-BUR-523-06,BUR-523,2025-06-15,Calibration,Ali Ahmad,4.1,Minor tuning carried out.,0
+MH-BUR-523-07,BUR-523,2025-07-15,Preventive Maintenance,Ajay Kunwar,0.5,Minor tuning carried out.,0
+MH-BUR-523-08,BUR-523,2025-08-15,Condition Review,Abdul Mannan Mohammed,1.5,Routine service completed.,0
+MH-BUR-523-09,BUR-523,2025-09-15,Inspection,Ajay Kunwar,3.9,Routine service completed.,1
+MH-BUR-523-10,BUR-523,2025-10-15,Condition Review,Abdul Mannan Mohammed,3.1,Routine service completed.,3
+MH-BUR-523-11,BUR-523,2025-11-15,Preventive Maintenance,Ali Ahmad,1.3,Deferred non-critical work item to next cycle.,5
+MH-BUR-523-12,BUR-523,2025-12-15,Preventive Maintenance,Contractor Team,2.9,Routine service completed.,7
+MH-PMP-524-01,PMP-524,2025-01-15,Preventive Maintenance,Contractor Team,2.0,Routine service completed.,32
+MH-PMP-524-02,PMP-524,2025-02-15,Preventive Maintenance,Ajay Kunwar,2.5,Routine service completed.,34
+MH-PMP-524-03,PMP-524,2025-03-15,Preventive Maintenance,Ali Ahmad,1.1,Deferred non-critical work item to next cycle.,36
+MH-PMP-524-04,PMP-524,2025-04-15,Inspection,Contractor Team,2.5,Component wear observed; monitor closely.,38
+MH-PMP-524-05,PMP-524,2025-05-15,Cleaning,Contractor Team,6.1,Minor tuning carried out.,40
+MH-PMP-524-06,PMP-524,2025-06-15,Condition Review,Ali Ahmad,2.0,Routine service completed.,42
+MH-PMP-524-07,PMP-524,2025-07-15,Preventive Maintenance,Ajay Kunwar,1.2,Component wear observed; monitor closely.,44
+MH-PMP-524-08,PMP-524,2025-08-15,Inspection,Ali Ahmad,3.6,Minor tuning carried out.,46
+MH-PMP-524-09,PMP-524,2025-09-15,Inspection,Ajay Kunwar,2.0,Routine service completed.,48
+MH-PMP-524-10,PMP-524,2025-10-15,Preventive Maintenance,Ajay Kunwar,1.5,Minor tuning carried out.,50
+MH-PMP-524-11,PMP-524,2025-11-15,Inspection,Ali Ahmad,2.9,Component wear observed; monitor closely.,52
+MH-PMP-524-12,PMP-524,2025-12-15,Cleaning,Abdul Mannan Mohammed,4.8,Deferred non-critical work item to next cycle.,54
+MH-BUR-525-01,BUR-525,2025-01-15,Calibration,Abdul Mannan Mohammed,3.6,Routine service completed.,3
+MH-BUR-525-02,BUR-525,2025-02-15,Preventive Maintenance,Abdul Mannan Mohammed,4.3,Component wear observed; monitor closely.,5
+MH-BUR-525-03,BUR-525,2025-03-15,Inspection,Ali Ahmad,3.8,Minor tuning carried out.,7
+MH-BUR-525-04,BUR-525,2025-04-15,Condition Review,Abdul Mannan Mohammed,5.2,Minor tuning carried out.,9
+MH-BUR-525-05,BUR-525,2025-05-15,Preventive Maintenance,Ajay Kunwar,2.5,Routine service completed.,11
+MH-BUR-525-06,BUR-525,2025-06-15,Preventive Maintenance,Contractor Team,0.5,Component wear observed; monitor closely.,13
+MH-BUR-525-07,BUR-525,2025-07-15,Inspection,Abdul Mannan Mohammed,5.7,Minor tuning carried out.,15
+MH-BUR-525-08,BUR-525,2025-08-15,Calibration,Contractor Team,4.8,Deferred non-critical work item to next cycle.,17
+MH-BUR-525-09,BUR-525,2025-09-15,Cleaning,Ajay Kunwar,3.1,Deferred non-critical work item to next cycle.,19
+MH-BUR-525-10,BUR-525,2025-10-15,Cleaning,Ajay Kunwar,6.2,Component wear observed; monitor closely.,21
+MH-BUR-525-11,BUR-525,2025-11-15,Preventive Maintenance,Contractor Team,2.8,Deferred non-critical work item to next cycle.,23
+MH-BUR-525-12,BUR-525,2025-12-15,Calibration,Contractor Team,4.6,Component wear observed; monitor closely.,25
+MH-BLR-526-01,BLR-526,2025-01-15,Condition Review,Ali Ahmad,4.3,Routine service completed.,1
+MH-BLR-526-02,BLR-526,2025-02-15,Calibration,Abdul Mannan Mohammed,2.3,Component wear observed; monitor closely.,3
+MH-BLR-526-03,BLR-526,2025-03-15,Cleaning,Contractor Team,4.4,Deferred non-critical work item to next cycle.,5
+MH-BLR-526-04,BLR-526,2025-04-15,Calibration,Abdul Mannan Mohammed,3.3,Component wear observed; monitor closely.,7
+MH-BLR-526-05,BLR-526,2025-05-15,Inspection,Ajay Kunwar,4.1,Routine service completed.,9
+MH-BLR-526-06,BLR-526,2025-06-15,Preventive Maintenance,Contractor Team,2.4,Minor tuning carried out.,11
+MH-BLR-526-07,BLR-526,2025-07-15,Inspection,Abdul Mannan Mohammed,1.3,Deferred non-critical work item to next cycle.,13
+MH-BLR-526-08,BLR-526,2025-08-15,Cleaning,Ajay Kunwar,6.8,Routine service completed.,15
+MH-BLR-526-09,BLR-526,2025-09-15,Preventive Maintenance,Ali Ahmad,4.5,Component wear observed; monitor closely.,17
+MH-BLR-526-10,BLR-526,2025-10-15,Calibration,Abdul Mannan Mohammed,3.5,Routine service completed.,19
+MH-BLR-526-11,BLR-526,2025-11-15,Condition Review,Ajay Kunwar,3.0,Deferred non-critical work item to next cycle.,21
+MH-BLR-526-12,BLR-526,2025-12-15,Inspection,Abdul Mannan Mohammed,5.6,Routine service completed.,23
+MH-BUR-527-01,BUR-527,2025-01-15,Preventive Maintenance,Contractor Team,2.3,Deferred non-critical work item to next cycle.,0
+MH-BUR-527-02,BUR-527,2025-02-15,Preventive Maintenance,Contractor Team,1.6,Component wear observed; monitor closely.,2
+MH-BUR-527-03,BUR-527,2025-03-15,Preventive Maintenance,Ajay Kunwar,3.1,Routine service completed.,4
+MH-BUR-527-04,BUR-527,2025-04-15,Calibration,Abdul Mannan Mohammed,3.2,Component wear observed; monitor closely.,6
+MH-BUR-527-05,BUR-527,2025-05-15,Inspection,Contractor Team,4.6,Minor tuning carried out.,8
+MH-BUR-527-06,BUR-527,2025-06-15,Cleaning,Abdul Mannan Mohammed,3.8,Deferred non-critical work item to next cycle.,10
+MH-BUR-527-07,BUR-527,2025-07-15,Cleaning,Ajay Kunwar,5.5,Minor tuning carried out.,12
+MH-BUR-527-08,BUR-527,2025-08-15,Preventive Maintenance,Contractor Team,3.2,Minor tuning carried out.,14
+MH-BUR-527-09,BUR-527,2025-09-15,Inspection,Ajay Kunwar,0.8,Component wear observed; monitor closely.,16
+MH-BUR-527-10,BUR-527,2025-10-15,Condition Review,Ajay Kunwar,0.5,Deferred non-critical work item to next cycle.,18
+MH-BUR-527-11,BUR-527,2025-11-15,Calibration,Contractor Team,1.0,Minor tuning carried out.,20
+MH-BUR-527-12,BUR-527,2025-12-15,Condition Review,Ali Ahmad,5.5,Minor tuning carried out.,22
+MH-CHR-528-01,CHR-528,2025-01-15,Condition Review,Abdul Mannan Mohammed,2.3,Routine service completed.,2
+MH-CHR-528-02,CHR-528,2025-02-15,Inspection,Ajay Kunwar,1.7,Component wear observed; monitor closely.,4
+MH-CHR-528-03,CHR-528,2025-03-15,Inspection,Abdul Mannan Mohammed,1.5,Routine service completed.,6
+MH-CHR-528-04,CHR-528,2025-04-15,Condition Review,Contractor Team,6.2,Minor tuning carried out.,8
+MH-CHR-528-05,CHR-528,2025-05-15,Calibration,Ali Ahmad,2.8,Routine service completed.,10
+MH-CHR-528-06,CHR-528,2025-06-15,Preventive Maintenance,Ali Ahmad,2.6,Deferred non-critical work item to next cycle.,12
+MH-CHR-528-07,CHR-528,2025-07-15,Calibration,Contractor Team,2.8,Component wear observed; monitor closely.,14
+MH-CHR-528-08,CHR-528,2025-08-15,Inspection,Contractor Team,2.1,Component wear observed; monitor closely.,16
+MH-CHR-528-09,CHR-528,2025-09-15,Preventive Maintenance,Ajay Kunwar,2.0,Component wear observed; monitor closely.,18
+MH-CHR-528-10,CHR-528,2025-10-15,Condition Review,Ali Ahmad,4.0,Deferred non-critical work item to next cycle.,20
+MH-CHR-528-11,CHR-528,2025-11-15,Cleaning,Abdul Mannan Mohammed,4.9,Component wear observed; monitor closely.,22
+MH-CHR-528-12,CHR-528,2025-12-15,Inspection,Ajay Kunwar,1.4,Component wear observed; monitor closely.,24
+MH-BLR-529-01,BLR-529,2025-01-15,Condition Review,Ali Ahmad,2.4,Minor tuning carried out.,25
+MH-BLR-529-02,BLR-529,2025-02-15,Cleaning,Ali Ahmad,6.2,Routine service completed.,27
+MH-BLR-529-03,BLR-529,2025-03-15,Condition Review,Ajay Kunwar,4.4,Deferred non-critical work item to next cycle.,29
+MH-BLR-529-04,BLR-529,2025-04-15,Condition Review,Abdul Mannan Mohammed,5.1,Component wear observed; monitor closely.,31
+MH-BLR-529-05,BLR-529,2025-05-15,Preventive Maintenance,Abdul Mannan Mohammed,1.8,Routine service completed.,33
+MH-BLR-529-06,BLR-529,2025-06-15,Cleaning,Abdul Mannan Mohammed,7.6,Minor tuning carried out.,35
+MH-BLR-529-07,BLR-529,2025-07-15,Cleaning,Ali Ahmad,4.9,Component wear observed; monitor closely.,37
+MH-BLR-529-08,BLR-529,2025-08-15,Inspection,Ali Ahmad,2.0,Component wear observed; monitor closely.,39
+MH-BLR-529-09,BLR-529,2025-09-15,Inspection,Ajay Kunwar,5.1,Component wear observed; monitor closely.,41
+MH-BLR-529-10,BLR-529,2025-10-15,Calibration,Ali Ahmad,4.0,Minor tuning carried out.,43
+MH-BLR-529-11,BLR-529,2025-11-15,Preventive Maintenance,Contractor Team,1.8,Minor tuning carried out.,45
+MH-BLR-529-12,BLR-529,2025-12-15,Preventive Maintenance,Ajay Kunwar,2.6,Minor tuning carried out.,47
+MH-BLR-530-01,BLR-530,2025-01-15,Cleaning,Ali Ahmad,4.8,Deferred non-critical work item to next cycle.,0
+MH-BLR-530-02,BLR-530,2025-02-15,Inspection,Contractor Team,3.9,Minor tuning carried out.,0
+MH-BLR-530-03,BLR-530,2025-03-15,Inspection,Ali Ahmad,2.7,Minor tuning carried out.,0
+MH-BLR-530-04,BLR-530,2025-04-15,Inspection,Ajay Kunwar,1.2,Component wear observed; monitor closely.,0
+MH-BLR-530-05,BLR-530,2025-05-15,Preventive Maintenance,Ali Ahmad,4.9,Component wear observed; monitor closely.,0
+MH-BLR-530-06,BLR-530,2025-06-15,Cleaning,Contractor Team,4.8,Component wear observed; monitor closely.,0
+MH-BLR-530-07,BLR-530,2025-07-15,Cleaning,Ajay Kunwar,5.2,Component wear observed; monitor closely.,0
+MH-BLR-530-08,BLR-530,2025-08-15,Cleaning,Abdul Mannan Mohammed,4.1,Deferred non-critical work item to next cycle.,0
+MH-BLR-530-09,BLR-530,2025-09-15,Cleaning,Abdul Mannan Mohammed,3.9,Component wear observed; monitor closely.,1
+MH-BLR-530-10,BLR-530,2025-10-15,Calibration,Contractor Team,4.3,Component wear observed; monitor closely.,3
+MH-BLR-530-11,BLR-530,2025-11-15,Preventive Maintenance,Ajay Kunwar,3.7,Deferred non-critical work item to next cycle.,5
+MH-BLR-530-12,BLR-530,2025-12-15,Cleaning,Ajay Kunwar,4.6,Routine service completed.,7
+MH-HTX-531-01,HTX-531,2025-01-15,Condition Review,Ajay Kunwar,2.2,Deferred non-critical work item to next cycle.,7
+MH-HTX-531-02,HTX-531,2025-02-15,Calibration,Ali Ahmad,5.0,Routine service completed.,9
+MH-HTX-531-03,HTX-531,2025-03-15,Cleaning,Ajay Kunwar,4.9,Minor tuning carried out.,11
+MH-HTX-531-04,HTX-531,2025-04-15,Calibration,Ajay Kunwar,4.1,Routine service completed.,13
+MH-HTX-531-05,HTX-531,2025-05-15,Inspection,Contractor Team,4.8,Component wear observed; monitor closely.,15
+MH-HTX-531-06,HTX-531,2025-06-15,Preventive Maintenance,Ajay Kunwar,0.7,Component wear observed; monitor closely.,17
+MH-HTX-531-07,HTX-531,2025-07-15,Inspection,Ajay Kunwar,4.7,Deferred non-critical work item to next cycle.,19
+MH-HTX-531-08,HTX-531,2025-08-15,Condition Review,Ajay Kunwar,4.8,Minor tuning carried out.,21
+MH-HTX-531-09,HTX-531,2025-09-15,Condition Review,Abdul Mannan Mohammed,3.1,Routine service completed.,23
+MH-HTX-531-10,HTX-531,2025-10-15,Cleaning,Abdul Mannan Mohammed,6.0,Routine service completed.,25
+MH-HTX-531-11,HTX-531,2025-11-15,Preventive Maintenance,Ali Ahmad,1.9,Deferred non-critical work item to next cycle.,27
+MH-HTX-531-12,HTX-531,2025-12-15,Preventive Maintenance,Ajay Kunwar,4.1,Deferred non-critical work item to next cycle.,29
+MH-BUR-532-01,BUR-532,2025-01-15,Preventive Maintenance,Abdul Mannan Mohammed,1.2,Deferred non-critical work item to next cycle.,0
+MH-BUR-532-02,BUR-532,2025-02-15,Preventive Maintenance,Ajay Kunwar,4.6,Deferred non-critical work item to next cycle.,0
+MH-BUR-532-03,BUR-532,2025-03-15,Condition Review,Abdul Mannan Mohammed,1.9,Component wear observed; monitor closely.,0
+MH-BUR-532-04,BUR-532,2025-04-15,Cleaning,Contractor Team,1.0,Minor tuning carried out.,0
+MH-BUR-532-05,BUR-532,2025-05-15,Preventive Maintenance,Contractor Team,3.1,Routine service completed.,0
+MH-BUR-532-06,BUR-532,2025-06-15,Calibration,Ajay Kunwar,2.6,Routine service completed.,0
+MH-BUR-532-07,BUR-532,2025-07-15,Preventive Maintenance,Ajay Kunwar,4.6,Component wear observed; monitor closely.,0
+MH-BUR-532-08,BUR-532,2025-08-15,Cleaning,Ali Ahmad,4.2,Component wear observed; monitor closely.,0
+MH-BUR-532-09,BUR-532,2025-09-15,Inspection,Ajay Kunwar,4.3,Deferred non-critical work item to next cycle.,0
+MH-BUR-532-10,BUR-532,2025-10-15,Preventive Maintenance,Contractor Team,3.0,Component wear observed; monitor closely.,0
+MH-BUR-532-11,BUR-532,2025-11-15,Condition Review,Ali Ahmad,3.8,Minor tuning carried out.,1
+MH-BUR-532-12,BUR-532,2025-12-15,Cleaning,Ajay Kunwar,6.9,Deferred non-critical work item to next cycle.,3
+MH-CTL-533-01,CTL-533,2025-01-15,Calibration,Ali Ahmad,1.8,Deferred non-critical work item to next cycle.,0
+MH-CTL-533-02,CTL-533,2025-02-15,Preventive Maintenance,Contractor Team,3.8,Minor tuning carried out.,0
+MH-CTL-533-03,CTL-533,2025-03-15,Cleaning,Ajay Kunwar,6.9,Component wear observed; monitor closely.,0
+MH-CTL-533-04,CTL-533,2025-04-15,Preventive Maintenance,Ajay Kunwar,3.0,Component wear observed; monitor closely.,0
+MH-CTL-533-05,CTL-533,2025-05-15,Preventive Maintenance,Ajay Kunwar,3.1,Minor tuning carried out.,0
+MH-CTL-533-06,CTL-533,2025-06-15,Cleaning,Contractor Team,5.4,Deferred non-critical work item to next cycle.,0
+MH-CTL-533-07,CTL-533,2025-07-15,Calibration,Abdul Mannan Mohammed,3.0,Routine service completed.,0
+MH-CTL-533-08,CTL-533,2025-08-15,Preventive Maintenance,Ajay Kunwar,0.5,Minor tuning carried out.,0
+MH-CTL-533-09,CTL-533,2025-09-15,Preventive Maintenance,Contractor Team,6.7,Routine service completed.,0
+MH-CTL-533-10,CTL-533,2025-10-15,Preventive Maintenance,Contractor Team,3.1,Component wear observed; monitor closely.,0
+MH-CTL-533-11,CTL-533,2025-11-15,Condition Review,Ajay Kunwar,2.5,Deferred non-critical work item to next cycle.,1
+MH-CTL-533-12,CTL-533,2025-12-15,Cleaning,Ali Ahmad,2.7,Component wear observed; monitor closely.,3
+MH-CTL-534-01,CTL-534,2025-01-15,Calibration,Contractor Team,3.0,Minor tuning carried out.,0
+MH-CTL-534-02,CTL-534,2025-02-15,Cleaning,Contractor Team,3.3,Component wear observed; monitor closely.,0
+MH-CTL-534-03,CTL-534,2025-03-15,Calibration,Ali Ahmad,1.8,Component wear observed; monitor closely.,0
+MH-CTL-534-04,CTL-534,2025-04-15,Preventive Maintenance,Contractor Team,4.1,Minor tuning carried out.,0
+MH-CTL-534-05,CTL-534,2025-05-15,Condition Review,Ajay Kunwar,3.2,Minor tuning carried out.,0
+MH-CTL-534-06,CTL-534,2025-06-15,Cleaning,Ajay Kunwar,3.1,Minor tuning carried out.,0
+MH-CTL-534-07,CTL-534,2025-07-15,Preventive Maintenance,Abdul Mannan Mohammed,4.5,Minor tuning carried out.,0
+MH-CTL-534-08,CTL-534,2025-08-15,Inspection,Abdul Mannan Mohammed,4.9,Component wear observed; monitor closely.,2
+MH-CTL-534-09,CTL-534,2025-09-15,Inspection,Contractor Team,5.1,Component wear observed; monitor closely.,4
+MH-CTL-534-10,CTL-534,2025-10-15,Calibration,Ajay Kunwar,5.0,Deferred non-critical work item to next cycle.,6
+MH-CTL-534-11,CTL-534,2025-11-15,Condition Review,Ajay Kunwar,4.8,Minor tuning carried out.,8
+MH-CTL-534-12,CTL-534,2025-12-15,Calibration,Abdul Mannan Mohammed,0.8,Component wear observed; monitor closely.,10
+MH-BLR-535-01,BLR-535,2025-01-15,Cleaning,Contractor Team,3.2,Deferred non-critical work item to next cycle.,3
+MH-BLR-535-02,BLR-535,2025-02-15,Cleaning,Ali Ahmad,5.9,Deferred non-critical work item to next cycle.,5
+MH-BLR-535-03,BLR-535,2025-03-15,Calibration,Abdul Mannan Mohammed,2.6,Routine service completed.,7
+MH-BLR-535-04,BLR-535,2025-04-15,Condition Review,Contractor Team,2.7,Minor tuning carried out.,9
+MH-BLR-535-05,BLR-535,2025-05-15,Calibration,Abdul Mannan Mohammed,2.0,Deferred non-critical work item to next cycle.,11
+MH-BLR-535-06,BLR-535,2025-06-15,Calibration,Ali Ahmad,2.6,Deferred non-critical work item to next cycle.,13
+MH-BLR-535-07,BLR-535,2025-07-15,Preventive Maintenance,Ajay Kunwar,1.2,Routine service completed.,15
+MH-BLR-535-08,BLR-535,2025-08-15,Calibration,Contractor Team,2.5,Minor tuning carried out.,17
+MH-BLR-535-09,BLR-535,2025-09-15,Preventive Maintenance,Abdul Mannan Mohammed,3.2,Minor tuning carried out.,19
+MH-BLR-535-10,BLR-535,2025-10-15,Condition Review,Ajay Kunwar,1.5,Deferred non-critical work item to next cycle.,21
+MH-BLR-535-11,BLR-535,2025-11-15,Preventive Maintenance,Abdul Mannan Mohammed,4.6,Routine service completed.,23
+MH-BLR-535-12,BLR-535,2025-12-15,Preventive Maintenance,Ali Ahmad,1.6,Deferred non-critical work item to next cycle.,25

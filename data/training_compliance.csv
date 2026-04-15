@@ -1,0 +1,37 @@
+asset_id,site,worker_certified,worker_experience_years,worker_fatigue,training_compliance_flag
+BOI-101,Melbourne Plant,True,5,Low,True
+BUR-205,Geelong Energy Hub,True,3,Medium,True
+PMP-144,Sydney Service Centre,False,1,High,False
+HTX-320,Sunshine West Test Centre,True,4,Low,True
+BLR-404,Melbourne Plant,False,2,High,False
+BLR-202,Geelong Energy Hub,True,6,Low,True
+PMP-099,Sydney Service Centre,True,4,Low,True
+CTL-010,Sunshine West Test Centre,True,7,Low,True
+CHR-501,Melbourne Plant,True,3,Medium,True
+BUR-310,Geelong Energy Hub,True,8,Low,True
+HTX-510,Sydney Service Centre,False,6,Medium,False
+PMP-511,Sunshine West Test Centre,True,7,Low,True
+PMP-512,Melbourne Plant,True,1,High,False
+BLR-513,Geelong Energy Hub,False,6,High,False
+HTX-514,Sydney Service Centre,False,2,Medium,False
+BLR-515,Sunshine West Test Centre,True,6,High,False
+BLR-516,Melbourne Plant,True,4,High,False
+PMP-517,Geelong Energy Hub,False,4,High,False
+BLR-518,Sydney Service Centre,True,6,High,False
+BLR-519,Sunshine West Test Centre,True,8,High,False
+CHR-520,Melbourne Plant,True,6,Low,True
+HTX-521,Geelong Energy Hub,True,1,Medium,True
+CTL-522,Sydney Service Centre,True,4,High,False
+BUR-523,Sunshine West Test Centre,True,2,Low,True
+PMP-524,Melbourne Plant,True,1,High,False
+BUR-525,Geelong Energy Hub,True,7,Low,True
+BLR-526,Sydney Service Centre,False,5,Low,False
+BUR-527,Sunshine West Test Centre,True,8,Low,True
+CHR-528,Melbourne Plant,False,5,Medium,False
+BLR-529,Geelong Energy Hub,False,7,High,False
+BLR-530,Sydney Service Centre,True,1,Medium,True
+HTX-531,Sunshine West Test Centre,False,3,High,False
+BUR-532,Melbourne Plant,True,6,Low,True
+CTL-533,Geelong Energy Hub,True,3,Low,True
+CTL-534,Sydney Service Centre,False,1,Low,False
+BLR-535,Sunshine West Test Centre,True,5,High,False

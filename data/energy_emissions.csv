@@ -1,0 +1,37 @@
+asset_id,site,steam_output,fuel_use,co2_emissions,nox_level,thermal_efficiency,emission_compliant
+BOI-101,Melbourne Plant,790,62,124,38,82,True
+BUR-205,Geelong Energy Hub,460,81,162,52,66,True
+PMP-144,Sydney Service Centre,0,0,0,0,41,True
+HTX-320,Sunshine West Test Centre,330,48,96,28,79,True
+BLR-404,Melbourne Plant,860,130,260,88,36,False
+BLR-202,Geelong Energy Hub,570,58,116,31,87,True
+PMP-099,Sydney Service Centre,0,0,0,0,71,True
+CTL-010,Sunshine West Test Centre,0,0,0,0,93,True
+CHR-501,Melbourne Plant,0,0,0,0,44,True
+BUR-310,Geelong Energy Hub,285,36,72,22,91,True
+HTX-510,Sydney Service Centre,467.0,40.0,125.0,35.0,69,True
+PMP-511,Sunshine West Test Centre,76.0,9.0,12.0,0,55,True
+PMP-512,Melbourne Plant,79.0,0,0,0,52,True
+BLR-513,Geelong Energy Hub,791.0,119.0,238.0,90.0,33,False
+HTX-514,Sydney Service Centre,260.0,39.0,63.0,35.0,91,True
+BLR-515,Sunshine West Test Centre,769.0,115.0,221.0,100,28,False
+BLR-516,Melbourne Plant,583.0,46.0,82.0,39.0,94,True
+PMP-517,Geelong Energy Hub,0,0,10.0,0,28,True
+BLR-518,Sydney Service Centre,623.0,66.0,142.0,43.0,75,True
+BLR-519,Sunshine West Test Centre,774.0,47.0,126.0,48.0,75,True
+CHR-520,Melbourne Plant,0,4.0,0,12.0,37,True
+HTX-521,Geelong Energy Hub,409.0,56.0,115.0,29.0,62,True
+CTL-522,Sydney Service Centre,0,0,0,8.0,95,True
+BUR-523,Sunshine West Test Centre,255.0,21.0,32.0,13.0,95,True
+PMP-524,Melbourne Plant,101.0,10.0,6.0,8.0,28,True
+BUR-525,Geelong Energy Hub,263.0,39.0,68.0,28.0,77,True
+BLR-526,Sydney Service Centre,680.0,81.0,84.0,49.0,91,True
+BUR-527,Sunshine West Test Centre,369.0,89.0,129.0,48.0,74,True
+CHR-528,Melbourne Plant,117.0,0,10.0,13.0,47,True
+BLR-529,Geelong Energy Hub,985.0,137.0,221.0,98.0,47,False
+BLR-530,Sydney Service Centre,686.0,59.0,157.0,45.0,95,True
+HTX-531,Sunshine West Test Centre,304.0,42.0,63.0,32.0,95,True
+BUR-532,Melbourne Plant,293.0,21.0,36.0,32.0,71,True
+CTL-533,Geelong Energy Hub,0,0,0,0,80,True
+CTL-534,Sydney Service Centre,107.0,0,26.0,0,80,True
+BLR-535,Sunshine West Test Centre,816.0,48.0,136.0,32.0,91,True

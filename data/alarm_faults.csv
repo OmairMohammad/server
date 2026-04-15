@@ -1,0 +1,75 @@
+fault_id,asset_id,alarm_type,severity,description,event_date
+FLT-BUR-205-01,BUR-205,Temperature Deviation,Medium,Recurring event observed during operation.,2026-03-11
+FLT-BUR-205-02,BUR-205,Pressure Instability,High,Recurring event observed during operation.,2026-03-02
+FLT-PMP-144-01,PMP-144,Vibration Alert,Medium,Trend exceeded recommended band.,2026-03-07
+FLT-PMP-144-02,PMP-144,Emissions Alert,High,Inspection advised if issue persists.,2026-03-13
+FLT-PMP-144-03,PMP-144,Pressure Instability,High,Escalation threshold approached.,2026-03-11
+FLT-PMP-144-04,PMP-144,Pressure Instability,High,Recurring event observed during operation.,2026-03-10
+FLT-HTX-320-01,HTX-320,Pressure Instability,High,Escalation threshold approached.,2026-03-08
+FLT-BLR-404-01,BLR-404,Efficiency Drift,Medium,Inspection advised if issue persists.,2026-03-24
+FLT-BLR-404-02,BLR-404,Pressure Instability,High,Escalation threshold approached.,2026-03-06
+FLT-BLR-404-03,BLR-404,Efficiency Drift,High,Inspection advised if issue persists.,2026-03-18
+FLT-BLR-404-04,BLR-404,Emissions Alert,High,Escalation threshold approached.,2026-03-19
+FLT-BLR-404-05,BLR-404,Temperature Deviation,Medium,Escalation threshold approached.,2026-03-28
+FLT-PMP-099-01,PMP-099,Emissions Alert,High,Recurring event observed during operation.,2026-03-01
+FLT-CHR-501-01,CHR-501,Vibration Alert,Medium,Trend exceeded recommended band.,2026-03-01
+FLT-CHR-501-02,CHR-501,Temperature Deviation,High,Inspection advised if issue persists.,2026-03-04
+FLT-CHR-501-03,CHR-501,Temperature Deviation,High,Trend exceeded recommended band.,2026-03-09
+FLT-PMP-512-01,PMP-512,Emissions Alert,High,Recurring event observed during operation.,2026-03-17
+FLT-PMP-512-02,PMP-512,Vibration Alert,Medium,Inspection advised if issue persists.,2026-03-11
+FLT-PMP-512-03,PMP-512,Temperature Deviation,High,Inspection advised if issue persists.,2026-03-05
+FLT-BLR-513-01,BLR-513,Pressure Instability,Medium,Escalation threshold approached.,2026-03-17
+FLT-BLR-513-02,BLR-513,Vibration Alert,High,Escalation threshold approached.,2026-03-23
+FLT-BLR-513-03,BLR-513,Temperature Deviation,High,Escalation threshold approached.,2026-03-09
+FLT-BLR-513-04,BLR-513,Vibration Alert,High,Inspection advised if issue persists.,2026-03-04
+FLT-BLR-513-05,BLR-513,Efficiency Drift,Medium,Escalation threshold approached.,2026-03-03
+FLT-HTX-514-01,HTX-514,Pressure Instability,High,Recurring event observed during operation.,2026-03-21
+FLT-BLR-515-01,BLR-515,Efficiency Drift,Medium,Inspection advised if issue persists.,2026-03-27
+FLT-BLR-515-02,BLR-515,Pressure Instability,Medium,Recurring event observed during operation.,2026-03-20
+FLT-BLR-515-03,BLR-515,Emissions Alert,Medium,Inspection advised if issue persists.,2026-03-22
+FLT-BLR-515-04,BLR-515,Vibration Alert,Medium,Inspection advised if issue persists.,2026-03-03
+FLT-BLR-515-05,BLR-515,Pressure Instability,Medium,Inspection advised if issue persists.,2026-03-21
+FLT-PMP-517-01,PMP-517,Pressure Instability,Medium,Escalation threshold approached.,2026-03-28
+FLT-PMP-517-02,PMP-517,Vibration Alert,High,Inspection advised if issue persists.,2026-03-15
+FLT-PMP-517-03,PMP-517,Efficiency Drift,Medium,Inspection advised if issue persists.,2026-03-14
+FLT-PMP-517-04,PMP-517,Pressure Instability,High,Escalation threshold approached.,2026-03-04
+FLT-BLR-518-01,BLR-518,Temperature Deviation,High,Inspection advised if issue persists.,2026-03-18
+FLT-CHR-520-01,CHR-520,Temperature Deviation,High,Trend exceeded recommended band.,2026-03-25
+FLT-CHR-520-02,CHR-520,Pressure Instability,High,Inspection advised if issue persists.,2026-03-18
+FLT-CHR-520-03,CHR-520,Pressure Instability,High,Inspection advised if issue persists.,2026-03-28
+FLT-CHR-520-04,CHR-520,Temperature Deviation,High,Inspection advised if issue persists.,2026-03-12
+FLT-CHR-520-05,CHR-520,Temperature Deviation,Medium,Escalation threshold approached.,2026-03-24
+FLT-CHR-520-06,CHR-520,Pressure Instability,Medium,Escalation threshold approached.,2026-03-12
+FLT-HTX-521-01,HTX-521,Pressure Instability,Medium,Escalation threshold approached.,2026-03-08
+FLT-HTX-521-02,HTX-521,Efficiency Drift,High,Escalation threshold approached.,2026-03-19
+FLT-PMP-524-01,PMP-524,Efficiency Drift,High,Recurring event observed during operation.,2026-03-07
+FLT-PMP-524-02,PMP-524,Temperature Deviation,Medium,Escalation threshold approached.,2026-03-03
+FLT-PMP-524-03,PMP-524,Temperature Deviation,High,Recurring event observed during operation.,2026-03-12
+FLT-PMP-524-04,PMP-524,Temperature Deviation,High,Inspection advised if issue persists.,2026-03-21
+FLT-PMP-524-05,PMP-524,Emissions Alert,High,Trend exceeded recommended band.,2026-03-21
+FLT-BUR-525-01,BUR-525,Emissions Alert,High,Recurring event observed during operation.,2026-03-12
+FLT-BUR-525-02,BUR-525,Emissions Alert,Medium,Escalation threshold approached.,2026-03-01
+FLT-BUR-527-01,BUR-527,Vibration Alert,High,Recurring event observed during operation.,2026-03-23
+FLT-BUR-527-02,BUR-527,Emissions Alert,High,Trend exceeded recommended band.,2026-03-13
+FLT-CHR-528-01,CHR-528,Emissions Alert,Medium,Recurring event observed during operation.,2026-03-10
+FLT-CHR-528-02,CHR-528,Vibration Alert,Medium,Inspection advised if issue persists.,2026-03-05
+FLT-CHR-528-03,CHR-528,Temperature Deviation,Medium,Trend exceeded recommended band.,2026-03-11
+FLT-CHR-528-04,CHR-528,Efficiency Drift,High,Inspection advised if issue persists.,2026-03-06
+FLT-CHR-528-05,CHR-528,Vibration Alert,Medium,Escalation threshold approached.,2026-03-17
+FLT-BLR-529-01,BLR-529,Vibration Alert,Medium,Inspection advised if issue persists.,2026-03-04
+FLT-BLR-529-02,BLR-529,Vibration Alert,Medium,Inspection advised if issue persists.,2026-03-20
+FLT-BLR-529-03,BLR-529,Temperature Deviation,High,Inspection advised if issue persists.,2026-03-18
+FLT-BLR-529-04,BLR-529,Temperature Deviation,Medium,Inspection advised if issue persists.,2026-03-28
+FLT-BLR-529-05,BLR-529,Vibration Alert,High,Inspection advised if issue persists.,2026-03-21
+FLT-BLR-529-06,BLR-529,Emissions Alert,High,Escalation threshold approached.,2026-03-02
+FLT-BLR-530-01,BLR-530,Vibration Alert,Medium,Trend exceeded recommended band.,2026-03-24
+FLT-BLR-530-02,BLR-530,Emissions Alert,Low,Recurring event observed during operation.,2026-03-17
+FLT-BUR-532-01,BUR-532,Vibration Alert,Medium,Escalation threshold approached.,2026-03-16
+FLT-BUR-532-02,BUR-532,Vibration Alert,High,Recurring event observed during operation.,2026-03-23
+FLT-BUR-532-03,BUR-532,Emissions Alert,Low,Inspection advised if issue persists.,2026-03-02
+FLT-CTL-533-01,CTL-533,Efficiency Drift,Medium,Recurring event observed during operation.,2026-03-03
+FLT-CTL-534-01,CTL-534,Emissions Alert,High,Escalation threshold approached.,2026-03-19
+FLT-CTL-534-02,CTL-534,Temperature Deviation,High,Inspection advised if issue persists.,2026-03-11
+FLT-BLR-535-01,BLR-535,Temperature Deviation,High,Inspection advised if issue persists.,2026-03-14
+FLT-BLR-535-02,BLR-535,Vibration Alert,Medium,Recurring event observed during operation.,2026-03-21
+FLT-BLR-535-03,BLR-535,Efficiency Drift,High,Recurring event observed during operation.,2026-03-03

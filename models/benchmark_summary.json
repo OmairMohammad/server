@@ -1,0 +1,112 @@
+{
+  "dataset": {
+    "assets": 36,
+    "features": [
+      "temperature",
+      "pressure",
+      "vibration",
+      "bearingTemp",
+      "stackTemp",
+      "fuelConsumption",
+      "steamOutput",
+      "load",
+      "efficiencyScore",
+      "recentFaults",
+      "overdueDays",
+      "assetAge",
+      "waterHardness",
+      "co2Emissions",
+      "noxLevel"
+    ]
+  },
+  "randomForest": {
+    "accuracy": 0.7273,
+    "macroF1": 0.5091,
+    "topFeatures": [
+      {
+        "feature": "overdueDays",
+        "importance": 0.195
+      },
+      {
+        "feature": "vibration",
+        "importance": 0.119
+      },
+      {
+        "feature": "efficiencyScore",
+        "importance": 0.092
+      },
+      {
+        "feature": "load",
+        "importance": 0.0765
+      },
+      {
+        "feature": "bearingTemp",
+        "importance": 0.0739
+      },
+      {
+        "feature": "pressure",
+        "importance": 0.0657
+      },
+      {
+        "feature": "temperature",
+        "importance": 0.0643
+      },
+      {
+        "feature": "assetAge",
+        "importance": 0.0568
+      }
+    ]
+  },
+  "xgboost": {
+    "accuracy": 0.8182,
+    "macroF1": 0.5697,
+    "topFeatures": [
+      {
+        "feature": "vibration",
+        "importance": 0.1774
+      },
+      {
+        "feature": "overdueDays",
+        "importance": 0.1491
+      },
+      {
+        "feature": "efficiencyScore",
+        "importance": 0.1334
+      },
+      {
+        "feature": "pressure",
+        "importance": 0.1229
+      },
+      {
+        "feature": "temperature",
+        "importance": 0.0751
+      },
+      {
+        "feature": "recentFaults",
+        "importance": 0.0656
+      },
+      {
+        "feature": "fuelConsumption",
+        "importance": 0.0556
+      },
+      {
+        "feature": "load",
+        "importance": 0.0521
+      }
+    ]
+  },
+  "isolationForest": {
+    "estimatedOutliers": 7,
+    "contamination": 0.18,
+    "note": "Used for anomaly scoring benchmark on the synthetic O\u2019Brien-style dataset."
+  },
+  "positioning": {
+    "productionDecisionEngine": "Rules-based explainable scoring",
+    "offlineBenchmarks": [
+      "Random Forest",
+      "XGBoost",
+      "Isolation Forest"
+    ],
+    "why": "The uploaded project files repeatedly position the MVP as read-only, advisory-only, and explainable before using heavier predictive models."
+  }
+}

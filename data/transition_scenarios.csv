@@ -1,0 +1,10 @@
+id,assetId,assetName,currentStrategy,proposedStrategy,currentAnnualCost,proposedAnnualCost,currentDowntimeHours,proposedDowntimeHours,co2Reduction,implementationCost,paybackMonths,riskReduction,confidence
+TS-001,BLR-404,Backup Boiler 4,Reactive,Predictive,38500,22000,120,18,45,28000,18,High → Low,84
+TS-002,PMP-144,Feedwater Pump 3,Reactive,Condition-Based,18200,9800,65,10,12,14000,20,Critical → Medium,78
+TS-003,CHR-501,Industrial Chiller 1,Reactive,Preventative,29400,16200,95,22,20,19500,18,Critical → Medium,81
+TS-101,PMP-144,Feedwater Pump 3,Reactive,Predictive,6660,2952,180,60,8,5740,15,High → Medium,71
+TS-102,BLR-404,Backup Boiler 4,Reactive,Predictive,25700,10440,180,60,45,20300,20,High → Medium,70
+TS-103,CHR-501,Industrial Chiller 1,Reactive,Predictive,16300,6840,180,60,8,13300,12,High → Medium,72
+TS-104,PMP-512,Transfer Pump 3,Predictive,Condition-Based,8526,4522,180,60,8,8793,18,High → Medium,75
+TS-105,BLR-513,Hot Water Boiler 4,Condition-Based,Predictive,25594,10313,180,60,42,20053,15,High → Medium,70
+TS-106,BLR-515,Backup Boiler 6,Predictive,Condition-Based,26953,11831,180,60,39,23004,24,High → Medium,70

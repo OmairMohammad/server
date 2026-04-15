@@ -1,0 +1,7 @@
+id,name,category,mandatory
+AS3788,AS 3788 – Pressure Equipment,Safety,True
+AS4343,AS 4343 – Pressure Equipment Hazard,Safety,True
+NGER,NGER – Greenhouse Gas Reporting,Emissions,True
+ISO14001,ISO 14001 – Environmental Management,Environment,False
+ISO55001,ISO 55001 – Asset Management,Management,False
+AISC,AS/NZS 61511 – Functional Safety,Safety,True

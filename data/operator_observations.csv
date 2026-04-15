@@ -1,0 +1,37 @@
+observation_id,asset_id,operator_name,comments,recorded_at
+OBS-BOI-101,BOI-101,Shift Supervisor B,Running within expected operating band.,2026-03-21 09:30
+OBS-BUR-205,BUR-205,Shift Supervisor B,Temperature trend has increased over the last week.,2026-03-19 09:30
+OBS-PMP-144,PMP-144,Ali Ahmad,Repeated vibration alarms and inconsistent pressure output.,2026-03-17 09:30
+OBS-HTX-320,HTX-320,Shift Supervisor B,Slight fouling suspected but output remains stable.,2026-03-22 09:30
+OBS-BLR-404,BLR-404,Ali Ahmad,High-severity fault history and maintenance long overdue.,2026-03-17 09:30
+OBS-BLR-202,BLR-202,Ali Ahmad,Operating normally. Predictive sensor data within range.,2026-03-25 09:30
+OBS-PMP-099,PMP-099,Shift Supervisor B,Slight vibration increase noticed. PM due in 3 days.,2026-03-21 09:30
+OBS-CTL-010,CTL-010,Ali Ahmad,All control loops operating within setpoint tolerances.,2026-03-12 09:30
+OBS-CHR-501,CHR-501,Ali Ahmad,Compressor noise increasing. Refrigerant level low.,2026-03-22 09:30
+OBS-BUR-310,BUR-310,Ali Ahmad,New unit performing as expected. All readings nominal.,2026-03-19 09:30
+OBS-HTX-510,HTX-510,Ali Ahmad,Minor efficiency drift noticed during recent checks.,2026-03-24 09:30
+OBS-PMP-511,PMP-511,Ali Ahmad,Minor efficiency drift noticed during recent checks.,2026-03-15 09:30
+OBS-PMP-512,PMP-512,Shift Supervisor B,Operator reports unusual vibration pattern.,2026-03-10 09:30
+OBS-BLR-513,BLR-513,Plant Operator A,Operating within expected band.,2026-03-28 09:30
+OBS-HTX-514,HTX-514,Plant Operator A,Operator reports unusual vibration pattern.,2026-03-20 09:30
+OBS-BLR-515,BLR-515,Plant Operator A,Minor efficiency drift noticed during recent checks.,2026-03-17 09:30
+OBS-BLR-516,BLR-516,Ali Ahmad,Stack temperature trend should be reviewed.,2026-03-18 09:30
+OBS-PMP-517,PMP-517,Ali Ahmad,Fault events increasing during high load periods.,2026-03-18 09:30
+OBS-BLR-518,BLR-518,Shift Supervisor B,Operator reports unusual vibration pattern.,2026-03-26 09:30
+OBS-BLR-519,BLR-519,Plant Operator A,Stack temperature trend should be reviewed.,2026-03-11 09:30
+OBS-CHR-520,CHR-520,Shift Supervisor B,Minor efficiency drift noticed during recent checks.,2026-03-15 09:30
+OBS-HTX-521,HTX-521,Ali Ahmad,Stack temperature trend should be reviewed.,2026-03-10 09:30
+OBS-CTL-522,CTL-522,Plant Operator A,Operator reports unusual vibration pattern.,2026-03-19 09:30
+OBS-BUR-523,BUR-523,Plant Operator A,Stack temperature trend should be reviewed.,2026-03-24 09:30
+OBS-PMP-524,PMP-524,Shift Supervisor B,Minor efficiency drift noticed during recent checks.,2026-03-26 09:30
+OBS-BUR-525,BUR-525,Shift Supervisor B,Fault events increasing during high load periods.,2026-03-10 09:30
+OBS-BLR-526,BLR-526,Plant Operator A,Fault events increasing during high load periods.,2026-03-22 09:30
+OBS-BUR-527,BUR-527,Plant Operator A,Stack temperature trend should be reviewed.,2026-03-13 09:30
+OBS-CHR-528,CHR-528,Ali Ahmad,Stack temperature trend should be reviewed.,2026-03-18 09:30
+OBS-BLR-529,BLR-529,Shift Supervisor B,Minor efficiency drift noticed during recent checks.,2026-03-12 09:30
+OBS-BLR-530,BLR-530,Ali Ahmad,Stack temperature trend should be reviewed.,2026-03-28 09:30
+OBS-HTX-531,HTX-531,Shift Supervisor B,Operating within expected band.,2026-03-11 09:30
+OBS-BUR-532,BUR-532,Plant Operator A,Stack temperature trend should be reviewed.,2026-03-20 09:30
+OBS-CTL-533,CTL-533,Ali Ahmad,Fault events increasing during high load periods.,2026-03-10 09:30
+OBS-CTL-534,CTL-534,Ali Ahmad,Stack temperature trend should be reviewed.,2026-03-13 09:30
+OBS-BLR-535,BLR-535,Plant Operator A,Minor efficiency drift noticed during recent checks.,2026-03-24 09:30

@@ -1,0 +1,19 @@
+id,assetId,reviewer,reviewerRole,decision,comment,timestamp,standard,compliant
+AUD-1001,PMP-144,Abdul Mannan Mohammed,Maintenance Planner,Escalated,Escalated because vibration remains above threshold.,2026-03-21 10:45,AS3788,True
+AUD-1002,BUR-205,Ali Ahmad,Engineer / Operator,Modified with Comment,Tune burner before full service intervention.,2026-03-21 13:20,NGER,True
+AUD-1003,BOI-101,Ali Ahmad,Engineer / Operator,Approved,Monitoring action is suitable for current status.,2026-03-22 08:10,AS3788,True
+AUD-1004,BLR-404,Omair Mohammad,Admin,Escalated,Critical asset. Immediate intervention required.,2026-03-22 09:30,AS4343,False
+AUD-1005,CHR-501,Hamza Murtuza,Regulator / Auditor,Escalated,Compressor bearing degradation. Non-compliant operations risk.,2026-03-22 11:00,AS3788,True
+AUD-1006,HTX-320,Abdul Mannan Mohammed,Maintenance Planner,Approved,Fouling within acceptable range. Schedule clean next PM cycle.,2026-03-23 08:45,ISO14001,True
+AUD-1101,BOI-101,Ali Ahmad,Maintenance Planner,Escalated,Action accepted for next maintenance window.,2026-03-26 12:46,NGER,True
+AUD-1102,BUR-205,Omair Mohammad,Regulator / Auditor,Approved,Action accepted for next maintenance window.,2026-03-31 15:03,ISO55001,False
+AUD-1103,PMP-144,Hamza Murtuza,Engineer / Operator,Escalated,Modified to inspect before full service escalation.,2026-03-22 15:42,ISO55001,False
+AUD-1104,HTX-320,Ali Ahmad,Maintenance Planner,Modified with Comment,Action accepted for next maintenance window.,2026-03-28 16:29,ISO55001,True
+AUD-1105,BLR-404,Ali Ahmad,Admin,Modified with Comment,Escalated due to combined asset and compliance risk.,2026-03-21 13:08,AS4343,True
+AUD-1106,BLR-202,Hamza Murtuza,Engineer / Operator,Escalated,Action accepted for next maintenance window.,2026-03-23 09:34,NGER,True
+AUD-1107,PMP-099,Omair Mohammad,Maintenance Planner,Escalated,Escalated due to combined asset and compliance risk.,2026-03-28 14:00,NGER,True
+AUD-1108,CTL-010,Ali Ahmad,Regulator / Auditor,Escalated,Action accepted for next maintenance window.,2026-03-27 17:40,AS4343,True
+AUD-1109,CHR-501,Abdul Mannan Mohammed,Engineer / Operator,Approved,Modified to inspect before full service escalation.,2026-03-28 13:14,NGER,True
+AUD-1110,BUR-310,Ali Ahmad,Admin,Escalated,Modified to inspect before full service escalation.,2026-03-24 15:47,ISO55001,True
+AUD-1111,HTX-510,Ali Ahmad,Regulator / Auditor,Escalated,Action accepted for next maintenance window.,2026-03-27 15:30,ISO55001,True
+AUD-1112,PMP-511,Abdul Mannan Mohammed,Maintenance Planner,Escalated,Modified to inspect before full service escalation.,2026-03-31 10:25,ISO55001,True

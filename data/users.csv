@@ -1,0 +1,8 @@
+id,name,email,password,role,desiredRole,site,approved,isActive,createdAt,notes
+USR-ADMIN-001,Omair Mohammad,admin@obrienenergy.com.au,Admin123!,Admin,Admin,Melbourne Plant,True,True,2026-03-20 09:00,
+USR-ENG-001,Ali Ahmad,ali.ahmad@obrienenergy.com.au,User123!,Engineer / Operator,Engineer / Operator,Melbourne Plant,True,True,2026-03-20 10:00,
+USR-PLN-001,Abdul Mannan Mohammed,planner@obrienenergy.com.au,User123!,Maintenance Planner,Maintenance Planner,Geelong Energy Hub,True,True,2026-03-20 10:10,
+USR-MGR-001,Aqeel Ahmed,executive@obrienenergy.com.au,User123!,Executive,Executive,Sydney Service Centre,True,True,2026-03-20 10:20,
+USR-AUD-001,Hamza Murtuza,auditor@obrienenergy.com.au,User123!,Regulator / Auditor,Regulator / Auditor,Melbourne Plant,True,True,2026-03-20 10:30,
+USR-SUS-001,Ajay Kunwar,transition@obrienenergy.com.au,User123!,Sustainability / Transition Lead,Sustainability / Transition Lead,Geelong Energy Hub,True,True,2026-03-20 10:40,
+USR-PEND-007,Demo Pending User,pending.user@obrienenergy.com.au,User123!,Pending Approval,Engineer / Operator,Sunshine West Test Centre,False,True,2026-04-01 09:00,Need access for condition monitoring demo.
